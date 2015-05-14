@@ -1,2 +1,3 @@
 #This is a repository
-:octopus:
+:four_leaf_clover:
+:octocat:
